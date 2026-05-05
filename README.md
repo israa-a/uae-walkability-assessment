@@ -1,7 +1,6 @@
 # UAE Walkability Assessment Pipeline
 
 Semantic segmentation-based walkability scoring for UAE urban streets.  
-Paper: *Walkability Assessment for Hot-Climate Urban Streets* — Alshalabi, Sarhan, Tawfik (AUS, 2025)
 
 ---
 
